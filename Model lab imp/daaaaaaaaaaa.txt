@@ -1,0 +1,35 @@
+Longest common subsequence
+Longest increasing subsequence
+longest decreasing subsequence
+longest palindrome subsequence
+
+Factorial
+Fibonacci
+term series
+Prime, armstrong
+
+All types of sorting which include:
+
+Bubble
+insertion
+selection
+quick
+merge
+radix sort
+Count inversions
+
+All searching techniques
+
+
+Greedy algo techniques
+
+Prims
+Dijkstra
+Kruskal
+Coin change problem
+
+DP
+
+Knapsack
+All pair shortest path (floyd warshall)
+Transitive closure 
